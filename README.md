@@ -1,7 +1,18 @@
-# Front-End React Next
+# Front-End: Node.Js + React + Next
+
+# Back-End: Node.Js + Prisma + SQLite + Festify
+
+# Mobile: Expo + React-Native
 
 ```
 npx create-next-app@latest --use-npm
+
+```
+
+## validation data
+
+```
+npm install zod
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
