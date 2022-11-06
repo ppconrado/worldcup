@@ -1,15 +1,15 @@
-# Front-End: Node.Js + React + Next
+## Front-End: Node.Js + React + Next
 
-# Back-End: Node.Js + Prisma + SQLite + Festify
+## Back-End: Node.Js + Prisma + SQLite + Festify
 
-# Mobile: Expo + React-Native
+## Mobile: Expo + React-Native
 
 ```
 npx create-next-app@latest --use-npm
 
 ```
 
-## validation data
+### validation data
 
 ```
 npm install zod
